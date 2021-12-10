@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lecture_8_Fragment</string>
+    <string name="my_fragments">my_fragments</string>
+    <string name="switch_fragments">switch_fragments</string>
+    <string name="end_fragment">End_fragment</string>
+    <string name="start_fragment">Start_fragment</string>
+</resources>
